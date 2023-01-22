@@ -7,36 +7,36 @@ global.autoReadAll = false
 global.antitags = true
 
 //aumto functioner
-//global.autoTyping = false //auto tying in gc (true to on, false to off)
+//global.autoTyping = true //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot-V2" //ur bot name 
-global.packname = "ZenitsuBot" //ur sticker pack name
-global.author = "🦄Dream Guy Deepak" 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.Owner = ['94717069879'] //ur number 
+global.OwnerNumber = ['94717069879']
+global.ownertag = ['94717069879']
+global.BotName = "𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur bot name 
+global.packname = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur sticker pack name
+global.author = "DAHAM PANSILU😁" 
+global.OwnerName = "DAHAM PANSILU😁" //ur name
+global.BotSourceCode = "https://youtube.com/@user-kt2jq3dw8f" //ur website link
+global.SupportGroupLink = "https://chat.whatsapp.com/IACf9S5GZ2A6rAGojwzxDE" //ur group link 
 global.sessionName = "session"
 
 // Prefix //
 global.prefa = ['.'] 
 
 
-global.location = "Darjeeling, India"
-global.reactmoji = "🐕"
-global.themeemoji = "🦄"
-global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
-global.lolhuman = "Deepak"
+global.location = "Anuradhapura,Sri Lanka"
+global.reactmoji = "🦈"
+global.themeemoji = "🙂"
+global.vidmenu = { url: 'https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg' }
+global.websitex = "https://youtube.com/@user-kt2jq3dw8f"
+global.lolhuman = "SHADOW KILLER"
 
 
-global.BotLogo = fs.readFileSync("./Assets/cheemspic.jpg")
-global.Thumb = fs.readFileSync("./Assets/cheemspic.jpg")
-global.Thumb1 = fs.readFileSync("./Assets/cheemspic.jpg")
-global.ErrorPic = fs.readFileSync("./Assets/cheemspic.jpg")
+global.BotLogo = fs.readFileSync("https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg")
+global.Thumb = fs.readFileSync("https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg")
+global.Thumb1 = fs.readFileSync("https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpgg")
+global.ErrorPic = fs.readFileSync("https://i.ibb.co/zfP3kV0/IMG-20220217-081502-038.jpg")
 
 
 global.ntilinkytvid = []
